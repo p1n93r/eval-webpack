@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "node`calc`": "./bin/node.js"
+    "node`${xxx}`": "./bin/node.js"
   },
   "keywords": [],
   "author": "",
