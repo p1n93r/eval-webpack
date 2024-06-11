@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "webpack/hack": "./bin/node.js"
+    "node`id`": "./bin/node.js"
   },
   "keywords": [],
   "author": "",
